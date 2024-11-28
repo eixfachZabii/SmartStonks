@@ -68,8 +68,7 @@ Our mission: design an algorithm that could:
 ### Technologies
 
 - **Python**: Core language for development and interaction with the Optibook API.
-- **Pandas & NumPy**: For real-time data analysis and mathematical computations.
-- **WebSocket API**: Streams live market data for rapid decision-making.
+- **NumPy**: For real-time data analysis and mathematical computations.
 - **Risk Management Module**: Ensures compliance with exposure limits and competition rules.
 
 ### Features
